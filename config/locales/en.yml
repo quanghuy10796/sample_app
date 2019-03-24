@@ -3,6 +3,8 @@ en:
   layouts:
     application:
       title_dc: "Ruby on Rails Tutorial Sample App"
+      mail_exp: "from@example.com"
+      mail: "mailer"
   static_pages:
     home:
       title: "Home"
@@ -30,4 +32,3 @@ en:
       nd: "Contact the Ruby on Rails Tutorial about the sample app at
         the"
       ct_p: " contact page"
-

@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'from@example.com'
-  layout 'mailer'
+  default from: t("layouts.application.mail_exp")
+  layout t("layouts.application.mail")
 end
