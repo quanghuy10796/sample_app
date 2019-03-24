@@ -1,0 +1,33 @@
+en:
+  hello: "Hello world"
+  layouts:
+    application:
+      title_dc: "Ruby on Rails Tutorial Sample App"
+  static_pages:
+    home:
+      title: "Home"
+      name_app: "Sample App"
+      the: "This is the home page for the"
+      tutorial: "Ruby on Rails Tutorial"
+      app: "sample application."
+    help:
+      title: "Help"
+      nd_1: "Get help on the Ruby on Rails Tutorial at the"
+      tutorial_help: "Rails Tutorial help section."
+      nd_2: "To get help on this sample app, see the"
+      tutorial: "Ruby on Rails Tutorial"
+    about:
+      title: "About"
+      tutorial: "Ruby on Rails Tutorial"
+      book: "book"
+      sc: "screencast_series"
+      nd: "to teach web development. This is the sample application for the tutorial."
+      the: "The "
+      is_a: " is a"
+      and: " and"
+    contact:
+      title: "Contact"
+      nd: "Contact the Ruby on Rails Tutorial about the sample app at
+        the"
+      ct_p: " contact page"
+
